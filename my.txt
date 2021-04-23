@@ -1,3 +1,4 @@
 add gitconfig back
 remove credentials
 add back
+try new token
